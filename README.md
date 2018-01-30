@@ -1,4 +1,4 @@
-#READ ME
+# READ ME
 
 This repository contains:
 - annotation guidelines designed to detect and classify event mentions in texts;
